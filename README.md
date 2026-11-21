@@ -4,7 +4,6 @@
 
 **Multi-feature Dynamic Interaction and Receptance Weighted Key-Value Network for LDCT Denoising**
 
-[![Status](https://img.shields.io/badge/Status-Under%20Review-orange)]()
 [![Task](https://img.shields.io/badge/Task-LDCT%20Denoising-blue)]()
 [![Framework](https://img.shields.io/badge/Framework-PyTorch-ee4c2c?logo=pytorch&logoColor=white)]()
 [![Domain](https://img.shields.io/badge/Field-Medical%20Imaging-9cf)]()
