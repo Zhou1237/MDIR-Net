@@ -1,4 +1,4 @@
-# 🩻 MDIR-Net
+# MDIR-Net
 
 <div align="center">
 
