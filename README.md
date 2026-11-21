@@ -10,7 +10,7 @@ Noise reduction in low-dose computed tomography (LDCT) is essential for enhancin
 
 The overall architecture of the proposed MDIR-Net is illustrated below.
 
-![MDIR-Net Framework](./figures/framework.png)
+![MDIR-Net Framework](./arch.png)
 
 ## Status
 
